@@ -15,7 +15,7 @@
 
 - 💡 Skilled in **AWS**, **Azure**, **GCP**, **Kubernetes**, **Docker**, **Terraform**
 - ⚙️ Focused on **Automation**, **Infrastructure as Code**, **CI/CD**, **Helm**, **Monitoring**
-- 🤖 Exploring the intersection of **AI + DevOps** with tools like **Hugging Face**
+- 🤖 Exploring the intersection of **AI + DevOps** with open-source platforms like **Hugging Face** and **Ollama**
 - 📚 Passionate about open source, lifelong learning, and mentoring future engineers
 
 ---
