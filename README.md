@@ -1,5 +1,4 @@
 
-Conversation with Gemini
 
 <p align="center">
 
