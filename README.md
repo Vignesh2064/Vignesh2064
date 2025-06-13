@@ -24,24 +24,19 @@
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
   <br><br>
-  <!-- Hugging Face and Ollama -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="huggingface" />
+  <!-- Hugging Face and Ollama Logos -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://ollama.com/public/ollama-logo.svg" height="40" alt="ollama" />
+  <img src="https://ollama.com/public/ollama-logo.svg" alt="ollama" height="40" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh2064&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📡 Connect With Me
 
