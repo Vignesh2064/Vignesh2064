@@ -10,8 +10,6 @@
   🎯 Mission: Simplify Real-World Tech. Build Hands-On Learning for Everyone.
 </p>
 
----
-
 ## 🔥 About Me
 
 - 🧠 Strong in **AWS, Azure, GCP, Kubernetes, Docker, Terraform**
@@ -20,9 +18,6 @@
 - ⚙️ Passionate about **automation, open source, and AI for DevOps**
 - 🎓 Lifelong learner | Open-source contributor | Educator at heart
 
----
-
-## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
@@ -35,7 +30,6 @@
   <img src="https://ollama.com/public/ollama-logo.svg" alt="ollama" height="40" />
 </p>
 
----
 
 
 ## 📡 Connect With Me
@@ -49,7 +43,6 @@
   </a>
 </p>
 
----
 
 ## ✨ Quote I Live By
 
