@@ -24,12 +24,11 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,ansible,prometheus,grafana" />
   <br><br>
   <!-- Hugging Face and Ollama Logos -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" height="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Ollama_logo_black.svg" alt="ollama" height="40" />
 </p>
 
 
