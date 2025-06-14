@@ -21,7 +21,7 @@
 - 💼 **DevOps Engineer | Cloud Architect | Kubernetes Specialist**  
 - ☁️ Expert in **AWS, Azure, GCP, Kubernetes, Docker, Terraform**  
 - 🔧 Love automating with **CI/CD**, **Helm**, **Ansible**, **Prometheus**, **Grafana**  
-- 🤖 Exploring **AI + DevOps** through tools like **Hugging Face** and **Ollama**  
+- 🤖 Exploring **AI + DevOps** through frameworks like **Hugging Face** and **Ollama**  
 - 📚 Lifelong learner | Mentor | Open-source contributor | Educator  
 
 ## 🧰 Tech Stack
