@@ -30,11 +30,6 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible,githubactions,linux,python,prometheus,grafana" />
 </p>
 
-<p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face logo" height="40" style="margin-right: 10px;" />
-  <img src="https://ollama.com/public/ollama.svg" alt="Ollama logo" height="40" />
-</p>
-
 ## 🌍 Connect With Me
 
 <p align="center">
