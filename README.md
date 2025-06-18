@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&width=700&lines=Hi+I'm+Vignesh+—+CloudCampa!;Empowering+Cloud%2C+DevOps+%26+Kubernetes+Learners!;Let's+Simplify+Tech+Together+🚀" alt="Typing animation showing welcome message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F97316&width=700&lines=Hi+I'm+Vignesh+;Empowering+Cloud%2C+DevOps+%26+Kubernetes+Learners!;Let's+Simplify+Tech+Together+🚀" alt="Typing animation showing welcome message" />
 </p>
 
 <!-- Name & Badges -->
