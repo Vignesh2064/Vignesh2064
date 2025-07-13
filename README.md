@@ -18,7 +18,7 @@
 
 ## 🔥 About Me
 
-- 💼 **DevOps Engineer | Cloud Architect | Kubernetes Specialist**  
+- 💼 **DevOps Engineer | SRE Engineer | Cloud Architect | Kubernetes Specialist**  
 - ☁️ Expert in **AWS, Azure, GCP, Kubernetes, Docker, Terraform**  
 - 🔧 Love automating with **CI/CD**, **Helm**, **Ansible**, **Prometheus**, **Grafana**  
 - 🤖 Exploring **AI + DevOps** through frameworks like **Hugging Face** and **Ollama**  
